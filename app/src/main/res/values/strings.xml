@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Weather Forecast</string>
+    <string name="search_your_city">Search your City</string>
+    <string name="condition">Condition</string>
+    <string name="_24">24</string>
+    <string name="today_s_forecast">Today\'s Forecast</string>
+    <string name="time">Time</string>
+    <string name="_25">25</string>
+    <string name="_10_0">10.0</string>
+</resources>
